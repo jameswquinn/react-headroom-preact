@@ -13,7 +13,7 @@ This project implements a React-Headroom component using Preact and Webpack. It 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/react-headroom-preact.git
+   git clone https://github.com/jameswquinn/react-headroom-preact.git
    cd react-headroom-preact
    ```
 
